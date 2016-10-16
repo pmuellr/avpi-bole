@@ -1,0 +1,8 @@
+{
+  "name": "avpi-bole",
+  "description": "AnyViewer plugin for bole logs",
+  "license" : "MIT",
+  "AnyViewer": {
+    "plugin": "./plugin"
+  }
+}
